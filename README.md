@@ -1,5 +1,5 @@
-# awesome-acme
-A curated list of resources for the plan9 acme editor
+# Awesome Acme [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of resources for the plan9 acme editor.
 
 ## Tools
 
