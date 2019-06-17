@@ -15,6 +15,12 @@ A curated list of resources for the plan9 acme editor.
 * https://github.com/rogpeppe/godef: Print where symbols are defined in Go source code
 * https://github.com/mkmik/waigo: Waits until any file belonging to the current project and required by the Go package in the current directory changes.
 
+# Apps / Integrations
+
+* https://github.com/hdonnay/Jira: an acme based client for jira.
+* https://github.com/sirnewton01/ghfs: GitHub filesystem
+* https://rsc.io/github/issue: a client for reading and updating issues in a GitHub project issue tracker.
+
 ## Libraries
 
 * https://github.com/s-urbaniak/acme: support higher level plugins for the acme editor.
