@@ -15,6 +15,10 @@ A curated list of resources for the plan9 acme editor.
 * https://github.com/rogpeppe/godef: Print where symbols are defined in Go source code
 * https://github.com/mkmik/waigo: Waits until any file belonging to the current project and required by the Go package in the current directory changes.
 
+### Clojure
+
+* https://github.com/mkmik/acmeclj: Clojure "IDE" for acme, supports nREPL
+
 # Apps / Integrations
 
 * https://github.com/hdonnay/Jira: an acme based client for jira.
