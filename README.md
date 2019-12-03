@@ -8,6 +8,7 @@ A curated list of resources for the plan9 acme editor.
 * https://github.com/mkmik/arepa: Waits until any file belonging to the current project and required by the Go package in the current directory changes.
 * https://github.com/ChristopherSegale/match-paren: matches opening and closing parentheses
 * https://github.com/fhs/acme-lsp: Language Server Protocol tools for the acme text editor
+* https://github.com/mkmik/acmik: A collection of Acme scripts
 
 ### Go 
 
