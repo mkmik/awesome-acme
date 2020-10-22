@@ -9,6 +9,7 @@ A curated list of resources for the plan9 acme editor.
 * https://github.com/ChristopherSegale/match-paren: matches opening and closing parentheses
 * https://github.com/fhs/acme-lsp: Language Server Protocol tools for the acme text editor
 * https://github.com/mkmik/acmik: A collection of Acme scripts
+* https://github.com/mkhl/cmd/tree/master/acme/acmeeval: eval an acme command from a script
 
 ### Go 
 
